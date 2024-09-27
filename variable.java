@@ -14,11 +14,11 @@ public class variable {
 		System.out.println("workingHoursPerDay ="+workingHoursPerDay);
 		System.out.println("buildingsInColony ="+buildingsInColony);
 		departmentId = 11;
+	        System.out.println("departmentId = "+departmentId);
 		priceOfBook = 66;
-	    workingHoursPerDay = 10;
-	    buildingsInColony = 40;
-	    System.out.println("departmentId = "+departmentId);
 		System.out.println("priceOfBook = "+priceOfBook);
+	        workingHoursPerDay = 10;
+	        buildingsInColony = 40;
 		System.out.println("workingHoursPerDay ="+workingHoursPerDay);
 		System.out.println("buildingsInColony ="+buildingsInColony);
 		short totalDaysInYear = 365;
@@ -34,12 +34,12 @@ public class variable {
 		System.out.println("numberOfBooksInRack ="+numberOfBooksInRack);
 		System.out.println("countOfSwitchesInBoard ="+countOfSwitchesInBoard);
 		numberOfSystemsWorkingInLab = 27;
+		System.out.println("numberOfSystemsWorkingInLab = "+numberOfSystemsWorkingInLab);
 		productCode = 6846;
 		numberOfBooksInRack = 55;
-		countOfSwitchesInBoard = 8;
-		System.out.println("numberOfSystemsWorkingInLab = "+numberOfSystemsWorkingInLab);
 		System.out.println("productCode = "+productCode);
 		System.out.println("numberOfBooksInRack ="+numberOfBooksInRack);
+		countOfSwitchesInBoard = 8;
 		System.out.println("countOfSwitchesInBoard ="+countOfSwitchesInBoard);
 	}
 
