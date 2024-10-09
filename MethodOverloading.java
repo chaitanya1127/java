@@ -49,6 +49,10 @@ public class MethodOverloading {
 		multipliedvalue = value1*value2;
 		System.out.println("multipliedvalue" +multipliedvalue);
 	    }
+        public static void variableArg(String... name) {
+		for(int i=0;i<name.length;i++) {
+	        System.out.println(name[i]);
+	    }
 	}
 
 
