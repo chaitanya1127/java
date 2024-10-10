@@ -11,6 +11,7 @@ public class MethodOverloading {
 	System.out.println("returnedvalue: " +returnedvalue);
 	multiply(11,2.7f);
 	multiply(1.1f,12);
+	variableArg("sravani","harish","deepthi");
 	}
 	public static void display( int number) {
                 System.out.println("number"+number);
